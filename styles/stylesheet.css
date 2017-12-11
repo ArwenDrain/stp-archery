@@ -1,0 +1,179 @@
+header {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.stp-logo {
+  width: 6rem;
+  float: left;
+}
+
+h1 {
+  font-family: 'Rancho', cursive;
+  font-size: 4rem;
+  color: rgb(82, 62, 51);
+}
+
+.nav-social {
+  float: right;
+}
+
+nav {
+  clear: both;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 1.5rem;
+  background-color: rgb(214, 232, 184);
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+a {
+  color: rgb(148, 200, 64);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2, h3, h4, h5, h6 {
+  padding-bottom: 1rem;
+}
+h2 {
+  font-family: 'News Cycle', sans-serif;
+  color: rgb(82, 62, 51);
+}
+
+p {
+  font-family: 'News Cycle', sans-serif;
+  font-size: 1.1rem;
+  padding-bottom: 1rem;
+}
+
+/* Index/home page */
+.home {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.blog {
+  border: 1px;
+  border-style: dotted;
+  border-color: rgb(148, 200, 64);
+  padding: 2rem;
+}
+
+/* About page */
+.about {
+  width: 40rem;
+  float: left;
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+}
+.about-img {
+  float: right;
+  width: 30rem;
+  margin: 3rem;
+}
+/* Instructors page */
+
+.instructors {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  padding-bottom: 1rem;
+  height: 8rem;
+}
+
+.derek {
+  float: left;
+  height: 8rem;
+  padding-right: 2rem
+}
+
+.amy {
+  clear: both;
+  float: left;
+  height: 8rem;
+  padding-right: 2rem;
+}
+
+.nathan {
+  clear: both;
+  float: left;
+  height: 8rem;
+  padding-right: 2rem;
+}
+
+/* Lessons page */
+button {
+  color: white;
+  background-color: rgb(148, 200, 64);
+}
+
+.class-info {
+  float: left;
+  width: 17rem;
+  height: 26rem;
+  margin: 3rem;
+  padding: 1rem;
+  border: 1px;
+  border-style: dotted;
+  border-color: rgb(148, 200, 64);
+}
+
+.classes-hdr {
+  margin-left: 3rem;
+}
+.lessons-hdr {
+  clear: both;
+  margin-left: 3rem;
+}
+.lesson-info {
+  width: 17rem;
+  margin: 3rem;
+  padding: 1rem;
+  float: left;
+  border: 1px;
+  border-style: dotted;
+  border-color: rgb(148, 200, 64);
+}
+
+
+.lesson-img {
+  height: 10rem;
+}
+.collage {
+  text-align: center;
+}
+
+/*Visit Us page*/
+
+address {
+  padding-bottom: 1rem;
+}
+.contact {
+  margin-left: 10rem;
+  float: left;
+}
+
+.social {
+  font-size: 2rem;
+}
+
+.map {
+  float: right;
+  margin-right: 10rem;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  margin: 3rem;
+  border-top: 1px;
+  border-top-style: dotted;
+  border-top-color: rgb(148, 200, 64);
+}
